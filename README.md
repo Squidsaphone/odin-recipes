@@ -13,4 +13,5 @@ The skills used to create this website were:
     - making both unordered and ordered lists with ul and ol
     - linking to different pages
     - linking to an image held in another directory
+    - CSS styling with boxes
 
