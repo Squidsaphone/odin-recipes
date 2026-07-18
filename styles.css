@@ -19,7 +19,8 @@ h2 {
 }
 
 #recipe-row {
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 .recipe {
